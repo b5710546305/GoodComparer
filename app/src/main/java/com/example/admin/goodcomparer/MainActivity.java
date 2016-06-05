@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setTitle("GOODS COMPARER");
-        setContentView(R.layout.compare_page);
+        setContentView(R.layout.activity_main);
 
         GridView gridview = (GridView) findViewById(R.id.gridView);
         gridview.setAdapter(new GoodAdapter(this));
