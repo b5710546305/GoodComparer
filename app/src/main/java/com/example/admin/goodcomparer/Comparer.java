@@ -1,4 +1,4 @@
-package com.example.admin.goodcomparer.src;
+package com.example.admin.goodcomparer;
 
 /**
  * Created by Miki on 6/3/16.
